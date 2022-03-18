@@ -1175,7 +1175,7 @@ footer{
         
           /* about us */
           .aboutus{
-            height: 84vh;
+            height: 47vh;
             padding-top: 10px
           }
            .aboutustext{
@@ -1191,6 +1191,7 @@ footer{
             padding: 0 30px;
           }
           .aboutuspicture{
+		  display: none;
             padding: 0px 25px;
           }
           .aboutuspicture div{
