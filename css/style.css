@@ -513,6 +513,9 @@ footer{
   .toggle-btn{
     display: none;
   }
+  .mobilelogo{
+    display: none;
+  }
   /* service */
   .ourservice{
     height: 48vh;
@@ -571,6 +574,9 @@ footer{
     } 
     /* mobile hamburger */
     .toggle-btn{
+      display: none;
+    }
+    .mobilelogo{
       display: none;
     }
   /* service */
@@ -718,6 +724,9 @@ footer{
       }
       /* mobile hamburger */
       .toggle-btn{
+        display: none;
+      }
+      .mobilelogo{
         display: none;
       }
       /* service */
@@ -897,6 +906,9 @@ footer{
         }
         /* mobile hamburger */
         .toggle-btn{
+          display: none;
+        }
+        .mobilelogo{
           display: none;
         }
         /* service */
@@ -1136,7 +1148,6 @@ footer{
           .toggle-btn{
             display: flex;
           }
-
           /* service */
           .ourservice{
             height: 48vh;
