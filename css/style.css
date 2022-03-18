@@ -516,10 +516,7 @@ footer{
   .mobilelogo{
     display: none;
   }
-  /* service */
-  .ourservice{
-    height: 48vh;
-  }
+	
   .ourteam h3{
     text-align: start;
     margin:0;
