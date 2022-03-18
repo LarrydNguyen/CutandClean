@@ -10,3 +10,11 @@ window.addEventListener("scroll", () =>{
     }
     lastScrollY = window.scrollY;
 });
+//  enable mobile click nav bar
+
+const togglebtn = document.getElementsByClassName('toggle-btn')[0]
+const navbaritem = document.getElementsByClassName('navlist')[0]
+
+togglebtn.addEventListener('click',() => {
+    navbaritem.classList.toggle('active')
+})
