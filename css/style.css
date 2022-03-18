@@ -516,7 +516,9 @@ footer{
   .mobilelogo{
     display: none;
   }
-	
+  .ourservice{
+    height: 62vh;
+  }
   .ourteam h3{
     text-align: start;
     margin:0;
